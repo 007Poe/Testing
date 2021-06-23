@@ -1,0 +1,28 @@
+/* Add here all your CSS customizations */
+
+/*rector lists*/
+.rector-detail{
+	border-top:3px solid orange;
+	border-bottom:3px solid orange;
+	height: 200px;
+}
+.rector-detail1{
+	border-top:3px solid purple;
+	border-bottom:3px solid purple;
+	height: 200px;
+}
+.rector-wrap ol{
+	padding: 10px;
+}
+.rector-wrap p{
+text-align: justify;
+}
+.rector-wrap a{
+	float: right;
+	padding: 5px;
+	font-size: 13px;
+}
+.rdetails th, .rdetails td{
+	text-align: center;
+}
+
