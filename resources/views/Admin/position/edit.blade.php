@@ -7,7 +7,7 @@
 			<li class="breadcrumb-item">
 				<a href="#">Members Setting</a>
 			</li>
-			<li class="breadcrumb-item active">Edit Position　テスト</li>
+			<li class="breadcrumb-item active">Edit Position</li>
 		</ol>
 
 		<div class="col-12 mr-auto ml-auto">
