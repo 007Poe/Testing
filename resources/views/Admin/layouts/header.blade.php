@@ -91,7 +91,7 @@
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Service Type">
           <a class="nav-link" href="/view_service_type">
             <i class="fa fa-fw fa-gavel"></i>
-            <span class="nav-link-text">Service Type</span>
+            <span class="nav-link-text">Service Type Tests</span>
           </a>
         </li>
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Service">
