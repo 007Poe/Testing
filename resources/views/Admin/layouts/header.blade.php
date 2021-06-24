@@ -85,7 +85,7 @@
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Sub Category">
           <a class="nav-link" href="/sub_category">
             <i class="fa fa-fw fa-code-fork"></i>
-            <span class="nav-link-text">Sub Category</span>
+            <span class="nav-link-text">Sub Category です。</span>
           </a>
         </li>
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Service Type">
